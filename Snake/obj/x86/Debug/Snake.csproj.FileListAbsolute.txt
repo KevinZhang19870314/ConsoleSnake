@@ -1,0 +1,10 @@
+c:\users\v-kz\documents\visual studio 2010\Projects\Snake\Snake\bin\Debug\Snake.exe
+c:\users\v-kz\documents\visual studio 2010\Projects\Snake\Snake\bin\Debug\Snake.pdb
+c:\users\v-kz\documents\visual studio 2010\Projects\Snake\Snake\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\v-kz\documents\visual studio 2010\Projects\Snake\Snake\obj\x86\Debug\Snake.exe
+c:\users\v-kz\documents\visual studio 2010\Projects\Snake\Snake\obj\x86\Debug\Snake.pdb
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\Snake\Snake\obj\x86\Debug\Snake.exe
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\Snake\Snake\obj\x86\Debug\Snake.pdb
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\Snake\Snake\obj\x86\Debug\ResolveAssemblyReference.cache
